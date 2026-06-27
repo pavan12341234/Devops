@@ -1,0 +1,28 @@
+ git init
+ git status
+ dir /a
+ ls
+ git --version
+ pwd
+ ls -a
+ ls -al
+ git status
+ git status
+ git add testing.py
+ git status
+ clear
+ git rm --cached testing.py
+ git status
+ git add testing.py
+ git status
+ git commit -m "added testing files"
+ git status
+ rm testing.py
+ ls
+ git restore testing.py
+ ls
+ git status
+ history
+ git --version
+ git status
+ history
