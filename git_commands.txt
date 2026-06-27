@@ -29,3 +29,5 @@
  git commit -m "added some new commands"
  git push origin master
  git add git_commands.txt
+
+This is some new changes
