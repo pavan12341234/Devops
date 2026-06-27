@@ -26,3 +26,6 @@
  git --version
  git status
  history
+ git commit -m "added some new commands"
+ git push origin master
+ git add git_commands.txt
