@@ -4,4 +4,6 @@ def my_function():
 
     return d
 
+
+test()
 my_function()
